@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**straystride/straystride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://file.garden/an64hms_LR8WfCYE/IMG_4997.png" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://hits.sh/github.com/pawzu/"><img alt="Hits" src="https://hits.sh/github.com/straystride.svg?style=for-the-badge&label=missions%20!&color=FFC887&labelColor=E5FFCA"/></a>
+
+
+<div align="center">
+<img src="https://file.garden/an64hms_LR8WfCYE/IMG_4993.png" />
+
+</div>
+
+
+<div align="center">
+<img src="https://file.garden/an64hms_LR8WfCYE/IMG_4997.png" />
+
+</div>
+
